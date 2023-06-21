@@ -18,6 +18,9 @@ namespace RegEx
             //uc3
             UserReg.ValidEmail();
 
+            //uc4
+            UserReg.ValidMobile();
+
         }
     }
 }

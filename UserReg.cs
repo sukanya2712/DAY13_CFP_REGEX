@@ -44,5 +44,17 @@ namespace RegEx
             else
                 Console.WriteLine("Invalid email");
         }
+
+        public static void ValidMobile()
+        {
+            string input = "+91 9822042799";
+            Regex regex = new Regex("^(\\+?\\d{1,3})\\s\\d{10}$");
+            Match match = regex.Match(input);
+
+            if (match.Success)
+                Console.WriteLine("Valid phone no");
+            else
+                Console.WriteLine("Invalid phone no");
+        }
     }
 }
