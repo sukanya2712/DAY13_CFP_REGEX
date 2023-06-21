@@ -32,5 +32,17 @@ namespace RegEx
             else
                 Console.WriteLine("Invalid lastname");
         }
+
+        public static void ValidEmail()
+        {
+            string input = "abc.xyz@bl.co.in";
+            Regex regex = new Regex("^[a-z]{3}[.][a-z]{3}@[a-z]{2}[.][a-z]{2}[.][a-z]{2,}");
+            Match match = regex.Match(input);
+
+            if (match.Success)
+                Console.WriteLine("Valid email");
+            else
+                Console.WriteLine("Invalid email");
+        }
     }
 }

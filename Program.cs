@@ -15,6 +15,9 @@ namespace RegEx
             //uc2
             UserReg.LastName();
 
+            //uc3
+            UserReg.ValidEmail();
+
         }
     }
 }
