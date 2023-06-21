@@ -20,5 +20,17 @@ namespace RegEx
             else
                 Console.WriteLine("Invalid firstname");
         }
+
+        public static void LastName()
+        {
+            string input = "Naik";
+            Regex regex = new Regex("^[A-Z][a-z]{2,}");
+            Match match = regex.Match(input);
+
+            if (match.Success)
+                Console.WriteLine("Valid lastname");
+            else
+                Console.WriteLine("Invalid lastname");
+        }
     }
 }

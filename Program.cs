@@ -12,6 +12,9 @@ namespace RegEx
             //uc1
             UserReg.FirstName();
 
+            //uc2
+            UserReg.LastName();
+
         }
     }
 }
