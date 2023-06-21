@@ -56,5 +56,17 @@ namespace RegEx
             else
                 Console.WriteLine("Invalid phone no");
         }
+
+        public static void ValidPassword()
+        {
+            string input = "mySecretPassword";
+            Regex regex = new Regex("^[A-Za-z]{8,}$");
+            Match match = regex.Match(input);
+
+            if (match.Success)
+                Console.WriteLine("Valid password_rule1");
+            else
+                Console.WriteLine("Invalid password_rule1");
+        }
     }
 }

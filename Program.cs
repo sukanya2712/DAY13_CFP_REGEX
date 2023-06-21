@@ -21,6 +21,9 @@ namespace RegEx
             //uc4
             UserReg.ValidMobile();
 
+            //uc5
+            UserReg.ValidPassword();
+
         }
     }
 }
