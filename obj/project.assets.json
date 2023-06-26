@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Sukanay\\source\\repos\\RegEx\\RegEx\\RegEx.csproj",
       "projectName": "RegEx",
       "projectPath": "C:\\Users\\Sukanay\\source\\repos\\RegEx\\RegEx\\RegEx.csproj",
       "packagesPath": "C:\\Users\\Sukanay\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sukanay\\source\\repos\\RegEx\\RegEx\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Sukanay\\source\\repos\\REGEX1\\REGEX1\\REGEX1.csproj",
+      "projectName": "REGEX1",
+      "projectPath": "C:\\Users\\Sukanay\\source\\repos\\REGEX1\\REGEX1\\REGEX1.csproj",
+      "packagesPath": "C:\\Users\\Sukanay\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sukanay\\source\\repos\\REGEX1\\REGEX1\\obj\\",
+>>>>>>> d4872fa66b07fad87733037b1a664cddaeff4728
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sukanay\\AppData\\Roaming\\NuGet\\NuGet.Config",

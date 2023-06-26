@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "rbd4x9x/1S+WDeJVbGutuv0/elUDZB6kSa3Q2ytGl0F/I29G2FUmuxfiyVyM+Ctj7R6qrjFRYdUuSg1yjoTybA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sukanay\\source\\repos\\RegEx\\RegEx\\RegEx.csproj",
+=======
+  "dgSpecHash": "0fgF8phq+OanEoOyOaqYEjnBFyENYNhMxCkVakfQR6sOmJ1FxePMIkp16Icv9/MXpRuCHsnj6Hq+c5mcCqhqUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sukanay\\source\\repos\\REGEX1\\REGEX1\\REGEX1.csproj",
+>>>>>>> d4872fa66b07fad87733037b1a664cddaeff4728
   "expectedPackageFiles": [],
   "logs": []
 }

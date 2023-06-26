@@ -1,6 +1,8 @@
+
 ﻿using System.Text.RegularExpressions;
 
 namespace RegEx
+
 {
     internal class Program
     {
@@ -25,8 +27,7 @@ namespace RegEx
             //uc5
             UserReg.ValidPassword();
 
-            //
-
         }
+        
     }
 }
