@@ -20,17 +20,4 @@ NOTE All rules must be passed<br>
 //UC7 Rule3 Should have at least 1 numeric number in the password<br>
 NOTE All rules must be passed<br>
 <br>
-//UC8 Rule4 Has exactly 1 Special Character<br>
-NOTE All rules must be passed<br>
-<br>
-//UC9 Should clear all email samples provided separately<br>
 
-abc@yahoo.com,<br>
-abc-100@yahoo.com,<br>
-abc.100@yahoo.com<br>
-abc111@abc.co<br>
-abc-100@abc.net,<br>
-abc.100@abc.com.au<br>
-abc@1.com,<br>
-abc@gmail.com.com<br>
-abc+100@gmail.com<br>

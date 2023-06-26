@@ -7,6 +7,7 @@ namespace RegEx
         static void Main(string[] args)
         {
             Console.WriteLine("Let's learn REGEX ");
+
             Console.WriteLine();
 
             //uc1
@@ -23,6 +24,8 @@ namespace RegEx
 
             //uc5
             UserReg.ValidPassword();
+
+            //
 
         }
     }
